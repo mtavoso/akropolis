@@ -6,6 +6,11 @@ Implémentation numérique du jeu de plateau Akropolis, réalisée dans le cadre
 
 Akropolis est un jeu de plateau dans lequel chaque joueur construit sa propre cité grecque en posant des tuiles hexagonales. Les tuiles sont composées de trois constructions : des carrières (ressources), des places (multiplicateurs) et des quartiers (points). Il existe cinq types de quartiers — habitations, marchés, temples, casernes et jardins — chacun avec ses propres règles de scoring. Le placement vertical est possible sous certaines conditions.
 
+## Aperçu
+
+<img width="956" height="610" alt="image" src="https://github.com/user-attachments/assets/3ac6cea8-2844-4f54-9d7a-5264180aeebe" />
+
+
 ## Fonctionnalités
 
 - Jeu multijoueur (2 à 4 joueurs)
