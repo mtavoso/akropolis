@@ -1,0 +1,211 @@
+2
+1
+0 0 0 0 0 
+3
+36
+1 carriere Habitation Temple 
+2 carriere Habitation Place rouge 
+3 Habitation Place violet Caserne 
+4 Habitation Place jaune Jardin 
+5 carriere Marche Habitation 
+6 Habitation Caserne Jardin 
+7 carriere carriere Marche 
+8 carriere Habitation Habitation 
+9 Place bleu Marche Temple 
+10 carriere Jardin Place bleu 
+11 carriere Habitation Marche 
+12 carriere carriere Place jaune 
+13 Habitation Place vert Caserne 
+14 carriere carriere Caserne 
+15 carriere carriere Place jaune 
+16 carriere Place rouge Habitation 
+17 Habitation Caserne Marche 
+18 carriere Temple Habitation 
+19 carriere Marche Temple 
+20 carriere carriere Place bleu 
+21 carriere carriere Place rouge 
+22 carriere Jardin Marche 
+23 carriere carriere Place vert 
+24 carriere Caserne Habitation 
+25 carriere Habitation Place violet 
+26 carriere Place jaune Temple 
+27 carriere carriere Jardin 
+28 Habitation Place rouge Temple 
+29 carriere Caserne Place jaune 
+30 carriere Marche Caserne 
+31 carriere carriere Place violet 
+32 carriere Caserne Marche 
+33 carriere carriere Temple 
+34 carriere Habitation Place vert 
+35 Habitation Marche Jardin 
+36 carriere Habitation Marche 
+HUMAIN iyed
+1
+0
+81
+0 0 0 0 
+0 1 0 0 
+0 2 0 0 
+0 3 0 0 
+0 4 0 0 
+0 5 0 0 
+0 6 0 0 
+0 7 0 0 
+0 8 0 0 
+1 0 0 0 
+1 1 0 0 
+1 2 0 0 
+1 3 0 0 
+1 4 0 0 
+1 5 0 0 
+1 6 0 0 
+1 7 0 0 
+1 8 0 0 
+2 0 0 0 
+2 1 0 0 
+2 2 0 0 
+2 3 0 0 
+2 4 0 1 Habitation 0 1 0 
+2 5 0 0 
+2 6 0 0 
+2 7 0 0 
+2 8 0 0 
+3 0 0 0 
+3 1 0 0 
+3 2 0 0 
+3 3 0 1 Caserne 0 
+3 4 0 1 carriere 0 
+3 5 0 1 carriere -1 
+3 6 0 0 
+3 7 0 0 
+3 8 0 0 
+4 0 0 0 
+4 1 0 0 
+4 2 0 0 
+4 3 0 0 
+4 4 0 1 carriere -1 
+4 5 0 1 Place -1 bleu 
+4 6 0 0 
+4 7 0 0 
+4 8 0 0 
+5 0 0 0 
+5 1 0 0 
+5 2 0 0 
+5 3 0 0 
+5 4 0 0 
+5 5 0 1 carriere -1 
+5 6 0 0 
+5 7 0 0 
+5 8 0 0 
+6 0 0 0 
+6 1 0 0 
+6 2 0 0 
+6 3 0 0 
+6 4 0 0 
+6 5 0 0 
+6 6 0 0 
+6 7 0 0 
+6 8 0 0 
+7 0 0 0 
+7 1 0 0 
+7 2 0 0 
+7 3 0 0 
+7 4 0 0 
+7 5 0 0 
+7 6 0 0 
+7 7 0 0 
+7 8 0 0 
+8 0 0 0 
+8 1 0 0 
+8 2 0 0 
+8 3 0 0 
+8 4 0 0 
+8 5 0 0 
+8 6 0 0 
+8 7 0 0 
+8 8 0 0 
+HUMAIN matys
+2
+0
+81
+0 0 0 0 
+0 1 0 0 
+0 2 0 0 
+0 3 0 0 
+0 4 0 0 
+0 5 0 0 
+0 6 0 0 
+0 7 0 0 
+0 8 0 0 
+1 0 0 0 
+1 1 0 0 
+1 2 0 0 
+1 3 0 0 
+1 4 0 0 
+1 5 0 0 
+1 6 0 0 
+1 7 0 0 
+1 8 0 0 
+2 0 0 0 
+2 1 0 0 
+2 2 0 0 
+2 3 0 0 
+2 4 0 0 
+2 5 0 0 
+2 6 0 0 
+2 7 0 0 
+2 8 0 0 
+3 0 0 0 
+3 1 0 0 
+3 2 0 0 
+3 3 0 0 
+3 4 0 0 
+3 5 0 1 carriere -1 
+3 6 0 0 
+3 7 0 0 
+3 8 0 0 
+4 0 0 0 
+4 1 0 0 
+4 2 0 0 
+4 3 0 0 
+4 4 0 1 carriere -1 
+4 5 0 1 Place -1 bleu 
+4 6 0 0 
+4 7 0 0 
+4 8 0 0 
+5 0 0 0 
+5 1 0 0 
+5 2 0 0 
+5 3 0 0 
+5 4 0 0 
+5 5 0 1 carriere -1 
+5 6 0 0 
+5 7 0 0 
+5 8 0 0 
+6 0 0 0 
+6 1 0 0 
+6 2 0 0 
+6 3 0 0 
+6 4 0 0 
+6 5 0 0 
+6 6 0 0 
+6 7 0 0 
+6 8 0 0 
+7 0 0 0 
+7 1 0 0 
+7 2 0 0 
+7 3 0 0 
+7 4 0 0 
+7 5 0 0 
+7 6 0 0 
+7 7 0 0 
+7 8 0 0 
+8 0 0 0 
+8 1 0 0 
+8 2 0 0 
+8 3 0 0 
+8 4 0 0 
+8 5 0 0 
+8 6 0 0 
+8 7 0 0 
+8 8 0 0 

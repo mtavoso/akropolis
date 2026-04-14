@@ -1,0 +1,87 @@
+#pragma once
+#include <vector>
+
+
+
+enum class TypeConstruction {
+    K,
+    J,
+    M,
+    C,
+    T,
+    H,
+    PB,
+    PV,
+    PR,
+    PJ,
+    PP
+};
+
+
+using TC = TypeConstruction;
+
+
+
+const std::vector<TypeConstruction> TUILES_PIOCHE = {
+    TC::K,TC::K,TC::PP,
+    TC::K,TC::K,TC::PP,
+    TC::K,TC::K,TC::J,
+    TC::K,TC::K,TC::PV,
+    TC::K,TC::K,TC::T,
+    TC::K,TC::K,TC::C,
+    TC::K,TC::K,TC::PR,
+    TC::K,TC::K,TC::PR,
+    TC::K,TC::K,TC::M,
+    TC::K,TC::K,TC::PJ,
+    TC::K,TC::K,TC::PJ,
+    TC::K,TC::K,TC::H,
+    TC::K,TC::K,TC::PB,
+    TC::K,TC::K,TC::PB,
+    TC::K,TC::K,TC::PB,
+    TC::K,TC::H,TC::H,
+    TC::K,TC::H,TC::H,
+    TC::K,TC::H,TC::H,
+    TC::K,TC::PJ,TC::T,
+    TC::K,TC::H,TC::M,
+    TC::K,TC::H,TC::M,
+    TC::K,TC::M,TC::H,
+    TC::K,TC::M,TC::H,
+    TC::K,TC::PB,TC::M,
+    TC::K,TC::PR,TC::H,
+    TC::K,TC::H,TC::T,
+    TC::K,TC::H,TC::PP,
+    TC::K,TC::PP,TC::H,
+    TC::K,TC::T,TC::H,
+    TC::K,TC::H,TC::J,
+    TC::K,TC::H,TC::PV,
+    TC::K,TC::J,TC::PB,
+    TC::K,TC::PV,TC::H,
+    TC::K,TC::M,TC::T,
+    TC::K,TC::T,TC::M,
+    TC::K,TC::J,TC::M,
+    TC::K,TC::C,TC::H,
+    TC::K,TC::C,TC::H,
+    TC::K,TC::H,TC::PR,
+    TC::K,TC::H,TC::C,
+    TC::K,TC::J,TC::C,
+    TC::K,TC::C,TC::T,
+    TC::K,TC::C,TC::M,
+    TC::K,TC::M,TC::C,
+    TC::K,TC::M,TC::C,
+    TC::K,TC::C,TC::PJ,
+    TC::H,TC::PV,TC::C,
+    TC::H,TC::M,TC::PV,
+    TC::H,TC::C,TC::M,
+    TC::H,TC::PJ,TC::J,
+    TC::H,TC::M,TC::J,
+    TC::H,TC::M,TC::T,
+    TC::H,TC::PP,TC::M,
+    TC::PB,TC::C,TC::M,
+    TC::H,TC::T,TC::PJ,
+    TC::H,TC::PP,TC::C,
+    TC::H,TC::C,TC::J,
+    TC::H,TC::M,TC::PR,
+    TC::H,TC::T,TC::C,
+    TC::PB,TC::M,TC::T,
+    TC::H,TC::PR,TC::T,
+};
